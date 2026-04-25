@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Jos%C3%A9+Silva;Software+Engineering+Student+at+Instituto+Superior+T%C3%A9cnico;Focused+on+systems%2C+distributed+architecture%2C+and+reliable+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Jos%C3%A9+Silva;Computer+Science+and+Engineering+Student+at+Instituto+Superior+T%C3%A9cnico;Focused+on+systems%2C+distributed+architecture%2C+and+reliable+software" alt="Typing SVG" />
 
 # José Silva
 
-Software Engineering student in Lisbon focused on systems programming, distributed architecture, and reliable backend software.
+Computer Science and Engineering student in Lisbon focused on systems programming, distributed architecture, and reliable backend software.
 
 </div>
 
@@ -12,7 +12,7 @@ Software Engineering student in Lisbon focused on systems programming, distribut
 
 ## About Me
 
-I am a Software Engineering student at Instituto Superior Tecnico with a strong interest in low-level systems, distributed services, and backend engineering. I am most engaged by problems where architecture, correctness, and execution details all materially affect the outcome.
+I am a Computer Science and Engineering student at Instituto Superior Tecnico with a strong interest in low-level systems, distributed services, and backend engineering. I am most engaged by problems where architecture, correctness, and execution details all materially affect the outcome.
 
 I tend to approach software from a systems perspective: how components coordinate, where failure modes emerge, and how design choices affect reliability under real constraints. I am particularly interested in early-career roles where I can contribute to infrastructure, backend platforms, and performance-aware software at scale.
 
@@ -62,6 +62,16 @@ Analytical data project focused on query design, optimization strategy, and effi
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=josedsilva20&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedsilva20&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 
 </div>
 
