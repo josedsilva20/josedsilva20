@@ -3,7 +3,7 @@
 # José Silva
 
 ```text
-$ whoami
+jose@github:~$ whoami
 José Silva
 CompSci @ Técnico Lisboa
 ```
@@ -14,9 +14,9 @@ CompSci @ Técnico Lisboa
 
 ## About Me
 
-I am a Computer Science and Engineering student at Instituto Superior Tecnico with a strong interest in low-level systems, distributed services, and backend engineering. I am most engaged by problems where architecture, correctness, and execution details all materially affect the outcome.
+I am a third-year Computer Science and Engineering student at Instituto Superior Tecnico with a strong interest in systems, backend engineering, and distributed software.
 
-I tend to approach software from a systems perspective: how components coordinate, where failure modes emerge, and how design choices affect reliability under real constraints. I am particularly interested in early-career roles where I can contribute to infrastructure, backend platforms, and performance-aware software at scale.
+I am particularly interested in problems where correctness, architecture, and implementation details all matter. I tend to approach software from a systems perspective: how components interact, where failure modes appear, and how design decisions affect reliability under real constraints.
 
 ---
 
