@@ -2,11 +2,7 @@
 
 # José Silva
 
-```text
-jose@github:~$ whoami
-José Silva
-CompSci @ Técnico Lisboa
-```
+### CompSci @ Técnico Lisboa
 
 </div>
 
