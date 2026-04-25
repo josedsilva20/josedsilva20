@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/josedsilva20?v=4" alt="José Silva" width="140" style="border-radius: 50%;" />
+<img src="https://josedsilva.pt/images/cropped_circle_image.png" alt="José Silva" width="140" />
 
 # José Silva
 
