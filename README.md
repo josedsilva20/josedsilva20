@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Jos%C3%A9+Silva;Computer+Science+and+Engineering+Student+at+Instituto+Superior+T%C3%A9cnico;Focused+on+systems%2C+distributed+architecture%2C+and+reliable+software" alt="Typing SVG" />
-
 # José Silva
 
-Computer Science and Engineering student in Lisbon focused on systems programming, distributed architecture, and reliable backend software.
+```text
+$ whoami
+José Silva
+CompSci @ Técnico Lisboa
+```
 
 </div>
 
@@ -18,6 +20,16 @@ I tend to approach software from a systems perspective: how components coordinat
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/josedsilva20/josedsilva20/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
+
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -25,34 +37,6 @@ I tend to approach software from a systems perspective: how components coordinat
 <img src="https://skillicons.dev/icons?i=c,java,python,linux,git" alt="Tech Stack Icons" />
 
 </div>
-
----
-
-## Selected Projects
-
-### PacmanIST
-Multi-client game server implemented in C with a strong emphasis on low-level systems programming and inter-process communication.
-
-- Designed a multi-client server architecture in C using named pipes for IPC, allowing independent client processes to communicate with a central game runtime.
-- Coordinated game state updates with threads and signals, requiring careful handling of asynchronous events, shared state, and process-level interactions.
-- Solved systems challenges around client lifecycle management, synchronization boundaries, and safe message exchange on Linux/POSIX.
-- Built the project with explicit attention to correctness, predictable runtime behavior, and the operational realities of low-level software.
-
-### BlockchainIST
-Distributed system developed in Java, focused on coordination, synchronization, and transaction consistency.
-
-- Implemented a distributed service architecture in Java using gRPC, defining clear node-to-node communication paths and service boundaries.
-- Addressed transaction ordering and synchronization problems to preserve consistent behavior across multiple participants in the system.
-- Worked through coordination logic where correctness depended on disciplined state transitions, predictable inter-node behavior, and explicit handling of distributed edge cases.
-- Explored practical tradeoffs in distributed design, including communication overhead, service decomposition, and consistency guarantees.
-
-### Database Project
-Analytical data project focused on query design, optimization strategy, and efficient reporting workflows.
-
-- Designed OLAP-style query workflows over relational datasets, focusing on efficient aggregation paths and repeatable reporting patterns.
-- Improved execution efficiency through indexing strategy and materialized views, reducing repeated computation on heavier analytical workloads.
-- Evaluated schema and query tradeoffs with a performance-oriented mindset, balancing maintainability, execution cost, and operational simplicity.
-- Used the project to reason more concretely about how physical design choices influence latency and responsiveness under read-heavy workloads.
 
 ---
 
@@ -67,11 +51,11 @@ Analytical data project focused on query design, optimization strategy, and effi
 
 ---
 
-## Contribution Activity
+## My Projects
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+[![My Projects](https://img.shields.io/badge/My%20Projects-111111?style=for-the-badge&logo=github&logoColor=white)](https://josedsilva.pt)
 
 </div>
 
